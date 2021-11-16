@@ -21,7 +21,7 @@
     "@types/rx": "^4.1.1",
     "@types/uuid": "^3.4.4",
     "accept-language": "^3.0.18",
-    "aws-sdk": "^2.302.0",
+    "aws-sdk": "^2.814.0",
     "es6-promise": "^4.2.5",
     "handlebars": "^4.0.12",
     "i18next": "^11.9.0",

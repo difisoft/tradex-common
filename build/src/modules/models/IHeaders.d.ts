@@ -3,4 +3,5 @@ export default interface IHeaders {
     token?: IToken;
     secToken?: IToken;
     'accept-language'?: string;
+    rid?: string;
 }

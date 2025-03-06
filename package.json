@@ -29,7 +29,7 @@
     "isomorphic-fetch": "^3.0.0",
     "locale-code": "^2.0.2",
     "log4js": "^4.0.2",
-    "moment": "^2.29.3",
+    "moment": "^2.29.4",
     "node-rdkafka": "2.9.0",
     "node-zookeeper-client": "^0.2.2",
     "path": "^0.12.7",
